@@ -6,9 +6,8 @@ public class BubbleSortActivity {
 	{
 		Sort arrange = new Sort();
 		System.out.println("This program will print out each "
-				+ "numnber inputed in order\n"
-				+ "Enter a number: ");
-		arrange.organize();
+				+ "numnber inputed in order\n");
+		arrange.AcceptInfo();
 	}
 
 }
